@@ -1,4 +1,7 @@
 ### Olá, eu sou o Diogo Raucci 👋
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 😄 Pronouns: ele/dele
+##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogoraucci&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoraucci&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
         
@@ -25,20 +28,17 @@
 </div>
 
 
-![Snake animation](https://github.com/diogoraucci/diogoraucci/blob/output/github-contribution-grid-snake.svg)
-
-
 <!--
 **diogoraucci/diogoraucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ele/dele
+
 - ⚡ Fun fact: ...
 -->
