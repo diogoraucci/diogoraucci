@@ -6,7 +6,7 @@
 - ⚠️ Estou Buscando Minha Primeira Oportundiade Profissional Como Cientista de Dados.
 - 😄 Pronomes: ele/dele
 
-#### Sou Apaixonado Por Tecnologia, Mercado Financeiro e Ciência de Dados.
+#### Sou Apaixonado Por Tecnologia, Mercado Financeiro, Ciência de Dados, Esportes e Meus Filhos.
 
 <div> 
 <a href="https://instagram.com/diogoludviger" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
