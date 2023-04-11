@@ -1,6 +1,10 @@
 ### Olá, eu sou o Diogo Raucci 👋
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 😄 Pronouns: ele/dele
+- 🎓 Atualemente Estudo Machine Learning, Deep Learning e Quantitative Finance.
+- 🔨 Atualmente Trabalho com Design, C.G e Mercado Financeiro.
+- ⚠️ Estou Buscando Minha Primeira Oportundiade Profissional Como Cientista de Dados.
+- 😄 Pronomes: ele/dele
+
+#### Sou Apaixonado Por Tecnologia, Mercado Financeiro e Ciência de Dados.
 
 <div> 
 <a href="https://instagram.com/diogoludviger" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -8,24 +12,26 @@
 <a href="https://www.linkedin.com/in/diogoraucci" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://medium.com/@diogoraucci" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="https://www.behance.net/3diogo" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+</div>
 
-##    
+##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogoraucci&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoraucci&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-        
+ 
+### Tecnologias Que Utilizo        
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" >
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
 
 
-</div>
+
 
 
 <!--
@@ -41,6 +47,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 - ⚡ Fun fact: ...
+![Snake animation](https://github.com/diogoraucci/diogoraucci/blob/main/.github/workflows/cobrinha.yml)
+🤖🎓🚨🚀🔨📊⚠️
 -->
 
-![Snake animation](https://github.com/diogoraucci/diogoraucci/blob/main/.github/workflows/cobrinha.yml)
+
