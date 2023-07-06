@@ -1,12 +1,12 @@
 # 🚨🚨🚨 PERFIL EM CONSTRUÇÃO!!! 🚨🚨🚨
 
 ### Olá, eu sou o Diogo Raucci 👋
-- 🎓 Atualemente Estudo Machine Learning, Deep Learning e Quantitative Finance.
+- 🎓 Atualemente Estudo Machine Learning, Deep Learning e Quantitative Finance, com o objetivo de mudar .
 - 🔨 Atualmente Trabalho com Design, C.G e Mercado Financeiro.
-- ⚠️ Estou Buscando Minha Primeira Oportundiade Profissional Como Cientista de Dados.
+- ⚠️ Estou Buscando Minha Primeira Oportundiade Profissional Como Cientista de Dados Para Concretizar Minha Transição de Carreia.
 - 😄 Pronomes: ele/dele
 
-#### Sou Apaixonado Por Tecnologia, Mercado Financeiro, Ciência de Dados, Esportes e Meus Filhos.
+#### Sou Apaixonado Por Tecnologia, Mercado Financeiro, Ciência de Dados, Esportes, Natureza e Meus Filhos.
 
 <div> 
 <a href="https://instagram.com/diogoludviger" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
