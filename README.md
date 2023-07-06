@@ -1,8 +1,8 @@
 # 🚨🚨🚨 PERFIL EM CONSTRUÇÃO!!! 🚨🚨🚨
 
 ### Olá, eu sou o Diogo Raucci 👋
-- 🎓 Atualemente Estudo Machine Learning, Deep Learning e Quantitative Finance, com o objetivo de mudar .
-- 🔨 Atualmente Trabalho com Design, C.G e Mercado Financeiro.
+- 🎓 Atualemente Estudo Machine Learning, Deep Learning e Quantitative Finance.
+- 🔨 Atualmente Trabalho com Design, Computação Gráfica e Mercado Financeiro.
 - ⚠️ Estou Buscando Minha Primeira Oportundiade Profissional Como Cientista de Dados Para Concretizar Minha Transição de Carreia.
 - 😄 Pronomes: ele/dele
 
