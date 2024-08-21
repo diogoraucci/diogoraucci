@@ -1,9 +1,9 @@
 # 🚨🚨🚨 PERFIL EM CONSTRUÇÃO!!! 🚨🚨🚨
 
-### Olá, eu sou o Diogo Raucci 👋
-- 🎓 Me especializando em Análise de Dados, Ciênci de dados, Machine Learning e Finanças Quantitativas.
+### Olá, eu sou o Diogo Ludviger 👋
+- 🎓 Me especializando em Análise de Dados, Ciência de dados, Machine Learning e Finanças Quantitativas.
 - 🔨 Atualmente Trabalho com Design, Computação Gráfica, Mercado Financeiro e Análise de Dados.
-- ⚠️ Estou Buscando Minha Primeira Oportundiade Profissional Como Cientista de Dados Para Concretizar Minha Transição de Carreia.
+- ⚠️ Em busca constante da minha melhor versão.
 - 😄 Pronomes: ele/dele
 
 #### Sou Apaixonado Por Tecnologia, Mercado Financeiro, Ciência de Dados, Esportes, Natureza e Meus Filhos.
