@@ -5,7 +5,7 @@ I am a multidisciplinary professional with a background in **3D Design, Computer
 * 🎓 **Data Science • Artificial Intelligence • Machine Learning • Quantitative Finance**
 * 💻 Developing projects involving **Python, Data Analytics, Statistical Modeling, Automation, and AI**
 * 📊 Exploring **Predictive Modeling, Quantitative Analysis, Financial Markets, and Data-Driven Solutions**
-* 🎨 25+ years of professional experience in **3D Design, CGI, Architectural Visualization, Unreal Engine, and Experiential Design**
+* 🎨 22+ years of professional experience in **3D Design, CGI, Architectural Visualization, Unreal Engine, and Experiential Design**
 * 🤖 Interested in the intersection of **Artificial Intelligence, Data, Technology, Finance, and Creative Industries**
 * 🚀 Building practical projects to transform data, models, and technology into **actionable insights and intelligent solutions**
 
